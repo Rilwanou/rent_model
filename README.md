@@ -4,7 +4,7 @@
 * Rilwanou Mahaman Lawal
 * Madou Gagi Ismaël
 * Mohamed ZEBA
-* Mohamed ZEBA
+* Cheikh LO
 
 **Tuteur :** Jules MAES
 **Université :** UNIVERSITÉ DE REIMS CHAMPAGNE-ARDENNE
