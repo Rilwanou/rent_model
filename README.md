@@ -20,12 +20,12 @@ L'outil, développé en **Python**, s'appuie sur un cas d'étude concret : la mi
 ## 🗃️ Structure du Projet
 
 * `/data` : Contient les données brutes (fichiers CSV) :
-    * `donnees_mine_hounde.csv` : Données de production, CAPEX et OPEX[cite: 117].
-    * `donnees_amortissement.csv` : Détails des plans d'amortissement[cite: 118, 119].
-    * `donnees_fiscales_bf.csv` : Données fiscales issues du Code minier de 2003[cite: 121].
+    * `donnees_mine_hounde.csv` : Données de production, CAPEX et OPEX.
+    * `donnees_amortissement.csv` : Détails des plans d'amortissement.
+    * `donnees_fiscales_bf.csv` : Données fiscales issues du Code minier de 2003.
 * `/src` : Contient le code source du modèle de simulation en Python.
 * `/notebooks` : Carnets Jupyter pour l'analyse exploratoire et la visualisation.
-* `/rapport` : Contient les rapports d'étapes et la documentation du projet (comme le "Rapport d'étapes _IVE.pdf" [cite: 1-116]).
+* `/rapport` : Contient les rapports d'étapes et la documentation du projet (comme le "Rapport d'étapes _IVE.pdf") .
 
 ## 📈 Contexte
 
