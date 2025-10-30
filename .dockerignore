@@ -1,0 +1,27 @@
+# Fichiers Git
+.git
+.gitignore
+
+# Fichiers Docker
+Dockerfile
+.dockerignore
+
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Caches Python et binaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers d'IDE et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Caches Jupyter
+.ipynb_checkpoints/
